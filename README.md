@@ -1,1 +1,1 @@
-# my_learing_log
+# my_learning_log
